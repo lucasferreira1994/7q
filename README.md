@@ -31,8 +31,8 @@ Você deverá identificar e justificar a causa do problema.
 ### Como executar
 
 ```bash
-docker pull ghcr.io/lucasferreira1994/7q/dns-0001:latest
-docker run -it --rm ghcr.io/lucasferreira1994/7q/dns-0001:latest
+docker pull lucasferreira1994/7q/dns-0001:latest
+docker run -it --rm lucasferreira1994/7q/dns-0001:latest
 ```
 
 ---
@@ -46,8 +46,8 @@ Investigar por que o usuário `suporte01` não consegue acessar o sistema via SS
 ### Como executar
 
 ```bash
-docker pull ghcr.io/lucasferreira1994/7q/ssh-0001:latest
-docker run -d -p 2222:22 --name ssh-0001 ghcr.io/lucasferreira1994/7q/ssh-0001:latest
+docker pull lucasferreira1994/7q/ssh-0001:latest
+docker run -d -p 2222:22 --name ssh-0001 lucasferreira1994/7q/ssh-0001:latest
 ```
 
 ### Informações de acesso
