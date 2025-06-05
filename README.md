@@ -1,4 +1,4 @@
-# 🧪 Desafios Técnicos — Analista Linux
+# 🧪 Prova Técnica
 
 Este repositório contém **dois desafios práticos** que simulam situações reais enfrentadas por administradores Linux. Eles foram projetados para avaliar sua capacidade de investigação, diagnóstico e clareza na comunicação técnica.
 
